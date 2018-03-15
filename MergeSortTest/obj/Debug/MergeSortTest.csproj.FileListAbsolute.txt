@@ -1,0 +1,16 @@
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\MergeSortTest.dll
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\MergeSortTest.pdb
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\MergeSort.dll
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\MergeSort.pdb
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\obj\Debug\MergeSortTest.csprojResolveAssemblyReference.cache
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\obj\Debug\MergeSortTest.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\obj\Debug\MergeSortTest.csproj.CopyComplete
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\obj\Debug\MergeSortTest.dll
+C:\Users\Ольга\source\repos\MergeSort\MergeSortTest\obj\Debug\MergeSortTest.pdb
