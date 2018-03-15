@@ -15,7 +15,7 @@ namespace MergeSortTest
             Class1 a = new Class1();
             int[] actual = Class1.sort(array);
 
-            Assert.AreEqual(expected, actual);
+            CollectionAssert.AreEqual(expected, actual);
         }
     }
 }
